@@ -7,10 +7,11 @@ Phần 1 : Công nghệ sử dụng
   
 Phần 2 : Các chức năng đã hoàn thành 
   - Tìm hiểu về ESP8266 và các cơ chế hoạt động của nó.
-  - Tìm hiểu về Firebase và MIT App Inventor.
+  - Tìm hiểu về kết nối và truyền dữ liệu giữa Firebase và Arduino.
+  - Tìm hiểu về Firebase và MIT App Inventor cùng với việc kết nối với nhau.
   - Xây dựng App Android để điều khiển thiết bị.
-  - Kết nối giữa firebase và MIT App Inventor.
-  - Bật tắt được relay thông qua App.
+  - Kết nối giữa Firebase và MIT App Inventor.
+  - Bật tắt được Relay thông qua App.
   - Thu nhập dữ liệu nhiệt độ, độ ẩm của DHT11 để đưa lên App.
   
 Phần 3 : Các chức năng chưa làm được
