@@ -1,11 +1,10 @@
 Đề tài : Điều khiển thiết bị trong nhà với Firebase , ESP8266 và Mit App Inventor
-SVTH   : Nguyễn Văn Hiếu
-MaSV   : 5551074019
 
 Phần 1 : Công nghệ sử dụng
   - Arduino IDE
   - MIT App Inventor
-  - Sublime Text 3 IDE
+  - Sublime Text 3 IDE 
+  
 Phần 2 : Các chức năng đã hoàn thành 
   - Tìm hiểu về ESP8266 và các cơ chế hoạt động của nó.
   - Tìm hiểu về Firebase và MIT App Inventor.
